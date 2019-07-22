@@ -1,5 +1,6 @@
 /*
  02. IIFE
+ 
 Immediately invoked functions expressions
 
 A function expression that’s immediately invoked after it’s created. That’s a function that died immediately after it came to life.
@@ -26,8 +27,12 @@ console.log(a);
 
 
 /*
-More info
+To know in detail
 
 https://medium.com/@vvkchandra/essential-javascript-mastering-immediately-invoked-function-expressions-67791338ddc6
+
+Video
+ 
+https://www.youtube.com/watch?v=3cbiZV4H22c
 
 */
