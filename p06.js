@@ -1,5 +1,5 @@
 /*
-04. SELF and THIS
+06. SELF and THIS
 */
 
 // Example 1

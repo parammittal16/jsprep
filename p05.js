@@ -1,5 +1,5 @@
 /*
-04. HOISTING
+05. HOISTING
 
 Variables and functions are hoisted to the top of the scope that they are declared in.
 

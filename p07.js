@@ -1,5 +1,5 @@
 /*
-04. == vs === (Equals vs Strict equals)
+07. == vs === (Equals vs Strict equals)
 
 == Only check for abstract equality and does not test for data type whereas === Tests for data type.
 
