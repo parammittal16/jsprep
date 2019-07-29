@@ -13,6 +13,7 @@ let myFunc = () => {
   else myFunc.counter++;
   return myFunc.counter;
 }
+console.log("\nExample 1's Output:\n");
 
 console.log(myFunc());
 console.log(myFunc());
@@ -29,6 +30,7 @@ console.log(myFunc());
 //   }
 // }
 // let myFuncInstance = myFunc();
+// console.log("\nExample 2's Output:\n");
 // console.log(myFuncInstance());
 // console.log(myFuncInstance());
 // console.log(myFuncInstance());

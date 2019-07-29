@@ -6,9 +6,11 @@ Immediately invoked functions expressions
 Currying is a process to reduce functions of more than one argument to functions of one argument with the help of lambda calculus.
 */
 
-// Example 
+// Example 1
 
 let tripleAdd = a => b => c => a+b+c;
+
+console.log("\nExample 1's Output:\n");
 console.log(tripleAdd(1)(2)(3));
 
 

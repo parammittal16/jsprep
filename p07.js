@@ -21,6 +21,7 @@ What happens "under the hood" when using "==" to compare:
 
 // Example 1
 
+console.log("\nExample 1's Output:\n");
 console.log(7 == '7');  // true
 
 console.log(7 === '7');  // false

@@ -34,6 +34,7 @@ function outterFunc(param1) {
   innerFunc('param one');
 }
 
+console.log("\nExample 1's Output:\n");
 outterFunc('param two');
 
 
@@ -48,6 +49,7 @@ outterFunc('param two');
 // var add5 = makeAdder(5);
 // var add10 = makeAdder(10);
 
+// console.log("\nExample 2's Output:\n");
 // console.log(add5(2));
 // console.log(add10(2));
 

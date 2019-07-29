@@ -9,6 +9,8 @@
   var x = y = 200;
 })();
 
+console.log("\nExample 1's Output:\n");
+
 console.log('y: ', y);
 console.log('x: ', x);
 

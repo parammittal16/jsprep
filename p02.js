@@ -9,6 +9,8 @@ A function expression that’s immediately invoked after it’s created. That’
 // Example 1
 
 let  a = 9;
+
+console.log("\nExample 1's Output:\n");
 console.log(a);
 
 ((a) => {
@@ -21,6 +23,7 @@ console.log(a);
 
 // Example 2
 
+// console.log("\nExample 2's Output:\n");
 // let sumOfTwo = ((a,b) => {
 //   console.log(a+b);
 // })(2,5);

@@ -17,6 +17,7 @@ var myCar = {
     }
 };
 
+console.log("\nExample 1's Output:\n");
 myCar.logColor();
 
 /*

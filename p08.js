@@ -11,6 +11,7 @@ Strict Mode is a feature in JavaScript that was introduced in ECMAScript 5. It e
 city = 'London';
 // Must use var/let/const before city
 
+console.log("\nExample 1's Output:\n");
 console.log(city);
 
 
@@ -21,6 +22,7 @@ console.log(city);
 // function myFunc(a, a, b) {
 //     console.log(a, a, b);
 // }
+// console.log("\nExample 2's Output:\n");
 // myFunc(1, 2, 3);
 
 

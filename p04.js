@@ -14,7 +14,7 @@ var balanceInfo = {
     return this.money + this.interestAmount;
   }
 };
-
+console.log("\nExample 1's Output:\n");
 console.log(balanceInfo.money);
 console.log(balanceInfo.getTotal());
 
@@ -30,6 +30,7 @@ console.log(balanceInfo.getTotal());
 // 	}
 // }
 
+// console.log("\nExample 2's Output:\n");
 // let person = new Person("John", "Reed");
 // person.displayName();
 // let person2 = new Person("Paul", "Adams");
